@@ -1,0 +1,25 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/devcontainers-contrib/features/node-asdf:0": {},
+		"ghcr.io/devcontainers-contrib/features/corepack:1": {},
+		"ghcr.io/devcontainers-contrib/features/kind:1": {},
+		"ghcr.io/devcontainers-contrib/features/lighthouse-cli:1": {},
+		"ghcr.io/devcontainers-contrib/features/linode-cli:1": {},
+		"ghcr.io/devcontainers-contrib/features/lite-server:1": {},
+		"ghcr.io/devcontainers-contrib/features/meteor-cli:1": {},
+		"ghcr.io/devcontainers-contrib/features/mocha:2": {},
+		"ghcr.io/devcontainers-contrib/features/nestjs-cli:2": {},
+		"ghcr.io/devcontainers-contrib/features/node-exporter:1": {},
+		"ghcr.io/devcontainers-contrib/features/prisma:2": {},
+		"ghcr.io/devcontainers-contrib/features/ts-node:1": {},
+		"ghcr.io/devcontainers-contrib/features/tsx:1": {},
+		"ghcr.io/devcontainers-contrib/features/vercel-ncc:1": {},
+		"ghcr.io/devcontainers-contrib/features/vercel-pkg:1": {},
+		"ghcr.io/rio/features/k3d:1": {},
+		"ghcr.io/ebaskoro/devcontainer-features/scala:1": {},
+		"ghcr.io/r3dpoint/devcontainer-features/tailwindcss-standalone-cli:1": {},
+		"ghcr.io/schlich/devcontainer-features/node-exporter:1": {},
+		"ghcr.io/cirolosapio/devcontainers-features/alpine-node:0": {}
+	}
+}
